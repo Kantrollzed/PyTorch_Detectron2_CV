@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2063e6a6-8117-47c0-aa4f-694923c651a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZAVP7N68Wccp5FTPlh52oEMy9j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.detecting">
+    <configuration name="detecting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sample.Balloon_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detecting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sample.Balloon_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sample.Balloon_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detecting" />
+        <item itemvalue="Python.training" />
+        <item itemvalue="Python.main.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2063e6a6-8117-47c0-aa4f-694923c651a1" name="Default Changelist" comment="" />
+      <created>1584281860228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584281860228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584281985534">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584281985534" />
+    <state x="586" y="357" width="804" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584740535306">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="586" y="357" width="804" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584740535306" />
+    <state width="1830" height="145" key="GridCell.Tab.0.bottom" timestamp="1584755187578">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="252" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584296074157" />
+    <state width="1830" height="145" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584755187578" />
+    <state width="1830" height="145" key="GridCell.Tab.0.center" timestamp="1584755187578">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="252" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584296074157" />
+    <state width="1830" height="145" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584755187578" />
+    <state width="1830" height="145" key="GridCell.Tab.0.left" timestamp="1584755187578">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="252" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584296074157" />
+    <state width="1830" height="145" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584755187578" />
+    <state width="1830" height="145" key="GridCell.Tab.0.right" timestamp="1584755187578">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="252" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584296074157" />
+    <state width="1830" height="145" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584755187578" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1584403117198">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1563" height="340" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584292339482" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584403117198" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1584403117197">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1563" height="340" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584292339482" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584403117197" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1584403117197">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1563" height="340" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584292339482" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584403117197" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1584403117198">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1563" height="340" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584292339482" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584403117198" />
+    <state x="67" y="184" key="SettingsEditor" timestamp="1584484757418">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="184" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584281970731" />
+    <state x="67" y="184" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584484757418" />
+    <state x="160" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1584281867156">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="160" y="377" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1584281867156" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1584400061519">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584400061519" />
+  </component>
+</project>
